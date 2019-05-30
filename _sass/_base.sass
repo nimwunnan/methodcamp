@@ -44,6 +44,9 @@ h1
   background-size: 50%
   background-position-x: 5%
   @media (max-device-width: $tablet), (max-width: $tablet)
+    background-image: url(/images/mc-logo.png)
+    background-attachment: fixed
+  @media (max-device-width: $phone-wide), (max-width: $phone-wide)
     height: 300px
     background-size: 65%
     background-position-y: center
@@ -58,7 +61,7 @@ h1
   padding-right: 5%
   padding-top: 20vh
   overflow: auto
-  @media (max-device-width: $tablet), (max-width: $tablet)
+  @media (max-device-width: $phone-wide), (max-width: $phone-wide)
   padding-top: 2vh
   hr, h1, h2
     color: $purple
@@ -68,7 +71,7 @@ h1
     margin-bottom: 1vh
     font-weight: 200
     color: $orange
-    @media (max-device-width: $tablet), (max-width: $tablet)
+    @media (max-device-width: $phone-wide), (max-width: $phone-wide)
       display: none
   h2, .subtitle
     font-style: italic
