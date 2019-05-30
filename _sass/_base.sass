@@ -43,7 +43,7 @@ h1
   background-attachment: fixed
   background-size: 50%
   background-position-x: 5%
-  @media (max-device-width: $phone-tall), (max-width: $phone-tall)
+  @media (max-device-width: $tablet), (max-width: $tablet)
     height: 300px
     background-size: 65%
     background-position-y: center
@@ -58,17 +58,17 @@ h1
   padding-right: 5%
   padding-top: 20vh
   overflow: auto
-  @media (max-device-width: $phone-tall), (max-width: $phone-tall)
+  @media (max-device-width: $tablet), (max-width: $tablet)
   padding-top: 2vh
   hr, h1, h2
-    color: $orange
+    color: $purple
   .title
     font-size: 5rem
     padding-bottom: 2vh
     margin-bottom: 1vh
     font-weight: 200
-    color: $purple
-    @media (max-device-width: $phone-tall), (max-width: $phone-tall)
+    color: $orange
+    @media (max-device-width: $tablet), (max-width: $tablet)
       display: none
   h2, .subtitle
     font-style: italic
@@ -77,12 +77,12 @@ h1
     line-height: 2rem
     font-weight: 600
   strong, em
-    color: $orange
+    color: $purple
   p
     font-weight: 300
     font-size: 1.5rem
     line-height: 2.3rem
-    color: $orange
+    color: $purple
   blockquote p
     font-size: 1.15rem
     line-height: 1.5rem
@@ -99,7 +99,7 @@ h1
       clear: both
       margin: 10px
     input
-      border: 1px solid $orange
+      border: 1px solid $purple
       padding: 4px
       width: 80%
       max-width: 350px
@@ -107,5 +107,5 @@ h1
       &[type="submit"]
         max-width: 250px
         &:hover
-          background-color: $orange
+          background-color: $purple
           color: white
