@@ -5,7 +5,7 @@ $p-font: 'Playfair Display', serif
 $pink: pink
 $orange: #ff6c2f
 $darkgrey: #363636
-
+$purple: #9c7fa6
 $tablet: 1199px
 $phone-wide: 991px
 $phone-tall: 768px
@@ -14,15 +14,18 @@ $small: 575px
 *
   font-family: $h-font
   color: $darkgrey
+body
+  background: $pink
 #photo-bg
   background: url(/images/logo-desk-tall.jpg)
   background-size: cover
   min-height: 50vh
 
 h1
-  font-family: $p-font
+  font-family: $h-font
+  font-weight: 100
   .serif
-    font-family: $h-font
+    font-family: $p-font
     color: #c60615
     font-weight: 200
 
@@ -31,21 +34,39 @@ h1
   .wrapper
     width: 40%
     margin: 5rem 30%
+  .columns
 
+#logo
+  background-image: url(/images/mc-logo.svg)
+  background-position-y: 25%
+  background-repeat: no-repeat
+  background-attachment: fixed
+  background-size: 50%
+  background-position-x: 5%
+  @media (max-device-width: $phone-tall), (max-width: $phone-tall)
+    height: 150px
+    background-position-y: center
+    background-repeat: no-repeat
+    background-attachment: unset
+    background-position-x: center
 .callout
   background-color: pink
-  height: 100vh
   padding-left: 5%
   padding-right: 5%
   padding-top: 20vh
-  overflow: scroll 
+  overflow: auto
+  @media (max-device-width: $phone-tall), (max-width: $phone-tall)
+  padding-top: 2vh
   hr, h1, h2
     color: $orange
   .title
-    font-size: 3.5rem
-    border-bottom: 11px double
+    font-size: 5rem
     padding-bottom: 2vh
     margin-bottom: 1vh
+    font-weight: 200
+    color: $purple
+    @media (max-device-width: $phone-tall), (max-width: $phone-tall)
+      display: none
   h2, .subtitle
     font-style: italic
     margin: 30px
@@ -63,11 +84,11 @@ h1
     font-size: 1.15rem
     line-height: 1.5rem
     margin: 10px 5px
-    color: $logoblue
+    color: $purple
   #mc_embed_signup
     margin: 30px auto
     label, input
-      color: $logoblue
+      color: $purple
       font-family: $h-font
       line-height: 2rem
       font-size: 1.3rem

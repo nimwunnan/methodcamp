@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 subtitle: 
 ---
@@ -35,6 +32,7 @@ Method Camp is centered around a day of keynote talks and panels, with workshops
 
   > **Sunday, August 18 -- Daytime:** 
   > Unconference slots at multiple venues in SE Portland.
+
 
 
 
