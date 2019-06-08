@@ -29,7 +29,7 @@ The [Antonymic Exchange](https://isea2015.org/proceeding/submissions/ISEA2015_su
 
 ## **Conceptual Labor**  an introduction to the theory with Ním Wunnan
 
-Method Camp is based on the tenets of the Theory of Conceptual Labor. Ním will present a basic introduction to the theory and talk a little about how it relates to Method Camp and its predecessor, Research Club.
+Method Camp is based on the tenets of the [Theory of Conceptual Labor](http://conceptuallabor.com/). Ním will present a basic introduction to the theory and talk a little about how it relates to Method Camp and its predecessor, Research Club.
 
 ---
 
