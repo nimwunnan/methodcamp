@@ -41,6 +41,9 @@ Method Camp is centered around a day of keynote talks and panels, with workshops
 
 The highlight will be an overnight on the land owned and worked by one of the featured speakers. Located near Woodland, WA, Jackrabbit Farms is in the process of becoming a center for permaculture, ceramics, and experiential learning. Limited spaces are available for a camp-out featuring a locally-foraged dinner where we can review what we learned over a bonfire under the stars.
 
+## Methodical #1 -- June 23rd
+
+Get to know Method Camp with a fun, free evening of mini-workshops -- [Methodical #1](events/methodical-1)
 
 
 ## Get Updates
