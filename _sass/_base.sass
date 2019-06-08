@@ -13,21 +13,73 @@ $small: 575px
 
 *
   font-family: $h-font
-  color: $darkgrey
+  color: $purple
 body
   background: $pink
-#photo-bg
-  background: url(/images/logo-desk-tall.jpg)
-  background-size: cover
-  min-height: 50vh
+  font-weight: 300
+  font-size: 1.7rem
+  line-height: 2.4rem
+  color: $purple
+  margin-bottom: .5rem
 
 h1
   font-family: $h-font
   font-weight: 100
-  .serif
-    font-family: $p-font
-    color: #c60615
-    font-weight: 200
+.serif
+  font-size: 4rem
+  font-family: $p-font
+  font-style: italic
+  color: $orange
+  font-weight: 200
+  padding-bottom: 15px
+  border-bottom: 1px solid $orange
+  margin: 1.7rem 0
+hr, h1, h2
+  color: $purple
+.title
+  font-size: 5rem
+  padding-bottom: 2vh
+  margin-bottom: 1vh
+  font-weight: 200
+  color: $orange
+.subtitle
+  font-style: italic
+  margin: 30px
+  font-size: 2rem
+  line-height: 2rem
+  font-weight: 600
+  color: $orange
+.date
+  color: $orange
+a
+  color: $orange
+  &:hover
+    color: $logoblue
+#home-link
+  font-size: 1rem
+  color: $purple
+  padding: 5px 20px
+  &:hover
+    color: $orange
+strong, em
+  color: $purple
+p
+  font-weight: 300
+  font-size: 1.7rem
+  line-height: 2.4rem
+  color: $purple
+  margin-bottom: .5rem
+blockquote
+  p
+    font-size: 1.15rem
+    line-height: 1.5rem
+    margin: 10px 5px
+    color: $purple
+
+#photo-bg
+  background: url(/images/logo-desk-tall.jpg)
+  background-size: cover
+  min-height: 50vh
 
 #home
   background-color: $pink
@@ -63,34 +115,18 @@ h1
   overflow: auto
   @media (max-device-width: $phone-wide), (max-width: $phone-wide)
   padding-top: 2vh
-  hr, h1, h2
-    color: $purple
   .title
-    font-size: 5rem
-    padding-bottom: 2vh
-    margin-bottom: 1vh
-    font-weight: 200
     color: $orange
     @media (max-device-width: $phone-wide), (max-width: $phone-wide)
       display: none
+  strong, em
+    color: $purple
   h2, .subtitle
     font-style: italic
     margin: 30px
     font-size: 2rem
     line-height: 2rem
     font-weight: 600
-  strong, em
-    color: $purple
-  p
-    font-weight: 300
-    font-size: 1.5rem
-    line-height: 2.3rem
-    color: $purple
-  blockquote p
-    font-size: 1.15rem
-    line-height: 1.5rem
-    margin: 10px 5px
-    color: $purple
   #mc_embed_signup
     margin: 30px auto
     label, input
@@ -112,3 +148,16 @@ h1
         &:hover
           background-color: $purple
           color: white
+.event 
+  .columns
+    padding: 5vh 0
+  .subtitle
+    color: white
+  strong
+    color: $orange
+  h2
+    margin: 40px 0px
+  hr
+    height: 0px
+    border-bottom: 1px dotted $purple
+    background-color: transparent
