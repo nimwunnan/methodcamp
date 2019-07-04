@@ -3,11 +3,10 @@ layout: home
 subtitle: 
 ---
 <br>
-<h2>August 16-18, 2019 <br> Portland, Ore.</h2>
+<h2>October, 2019 <br> Portland, Ore.</h2>
 
 Method Camp is a weekend of talks, workshops, and engaged discussions about the work we really care about. From art to activism, caretaking to code, if you’re committed to making something new, improving the world around you, or just learning something inside and out, you belong at Method Camp.
 
-<br>
 <br>
 
 ## What’s Method Camp All About?
@@ -21,29 +20,26 @@ Method Camp is centered around a day of keynote talks and panels, with workshops
 
 <br>
 
-  > **Friday, August 16 -- Evening:** 
+  > **Day 1 -- Evening:** 
   > Opening party
 
-  > **Saturday, August 17 -- Daytime:** 
+  > **Day 2 -- Daytime:** 
   > Main event. Speakers, workshops, panels.
 
-  > **Saturday, August 17 -- Evening:** 
-  > Camp out in Woodland, Washington, dinner served.
-
-  > **Sunday, August 18 -- Daytime:** 
+  > **Day 3:** 
   > Unconference slots at multiple venues in SE Portland.
 
+<br>
 
-
-
-
-## Actual camping
-
-The highlight will be an overnight on the land owned and worked by one of the featured speakers. Located near Woodland, WA, Jackrabbit Farms is in the process of becoming a center for permaculture, ceramics, and experiential learning. Limited spaces are available for a camp-out featuring a locally-foraged dinner where we can review what we learned over a bonfire under the stars.
+Full details will be announced via the mailing list, but in the meantime we'll be building community and conversation with smaller *Methodical* events.
 
 ## Methodical #1 -- June 23rd
+We kicked things off with a [fun, free evening of mini-workshops.](events/methodical-1)
 
-Get to know Method Camp with a fun, free evening of mini-workshops -- [Methodical #1](events/methodical-1)
+## Methodical #2: Field trip to Jackrabbit Farms -- August 17th
+
+Located near Woodland, WA, Jackrabbit Farms is in the process of becoming a center for permaculture, ceramics, and experiential learning. Ceramicist Careen Stoll will literally walk us through the 22 acres of the project to talk the nitty-gritty of building roads, planting orchards, and opening streams to local salmon. A locally foraged lunch will be served for a $5-10 donation. Join the mailing list to get updates, but feel free to [RSVP now](mailto:info@methodcamp.org). 
+
 
 
 ## Get Updates
