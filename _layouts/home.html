@@ -2,29 +2,38 @@
 <html>
     {% include head.html %}
   <body id="home">
-
-    {% include header.html %}
-
+    {% include home-header.html  %}
   <section class="columns is-marginless logo">
+  <!-- left col -->
     <div class="column is-one-half main">
       <img src="/images/mc-logo-purple.png" class="logo-image">
      {% include mc-form.html  %}
-
+     {% assign events = (site.events | sort: 'date') | reverse %}
+     {% for event in events limit:1 %}
+     <div id="next-event">
+      <h3><em>Next Event</em></h3>
+      <h3>
+        <a href="{{event.url}}">{{ event.title }}</a> 
+      </h3>
+        <h3 class="date">{{ event.date | date: "%a, %b %d "}}</h3>
+      </h3>
+      <br>
+    </div>
+     {% endfor  %}
   </div>
+<!-- right col -->
   <div class="column callout is-one-half" style="background-color: pink;">      
     <h1 class="title">{{ page.title }}</h1>
     <h2> {{page.subtitle}} </h2>
     <hr>
-    <img src="/images/methodical-1/tabletalk.jpg">
-             {{content}}
-
+    <br>
+       {{content | markdownify}}
   </div>
 
 </section>
     <!-- end hero -->
     <section class="columns is-marginless">
         <div class="column is-one-half">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. 
         </div>
         <div class="column is-one-half">
         </div>

@@ -20,7 +20,6 @@ body
   font-size: 1.7rem
   line-height: 2.4rem
   color: $purple
-  margin-bottom: .5rem
   min-height: 100vh
 
 h1
@@ -62,13 +61,13 @@ a
   &:hover
     color: $orange
 strong, em
-  color: $orange
+  color: $purple
 p
   font-weight: 300
   font-size: 1.7rem
   line-height: 2.4rem
   color: $purple
-  margin-bottom: .5rem
+  margin-bottom: 1rem
 .caption
   font-family: monospace
   font-size: 1rem
@@ -100,7 +99,7 @@ header.site-header
     margin: 5rem 30%
   .columns
   .logo
-      height: 100vh
+      min-height: 90vh
 
 .logo-image
   margin-top: 5px
@@ -125,6 +124,9 @@ header.site-header
     background-image: url(/images/mc-logo.png)
 #mc_embed_signup
     margin: 30px auto
+    clear: both
+    overflow: hidden
+
     label, input
       color: $purple
       font-family: $h-font
@@ -163,6 +165,8 @@ header.site-header
   padding-left: 5%
   padding-right: 5%
   padding-top: 20vh
+  img
+    margin: 20px 0px
   @media (max-device-width: $phone-wide), (max-width: $phone-wide)
   padding-top: 2vh
   .title
@@ -170,14 +174,20 @@ header.site-header
     @media (max-device-width: $phone-wide), (max-width: $phone-wide)
       display: none
   strong, em
-    color: $purple
+    color: $orange
   h2, .subtitle
     font-size: 2rem
     line-height: 2rem
     font-weight: 600
+  h3
+    color: $orange
   hr
     background-color: $purple
-  
+#next-event
+  clear: both
+  padding: 20px 10%
+  h3 em
+    color: white  
 .event 
   .columns
     padding: 5vh 0
