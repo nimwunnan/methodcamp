@@ -5,19 +5,29 @@
 
     {% include header.html %}
 
-  <section class="columns is-marginless">
-    <div class="column" id="logo">
-    </div>
-      <div class="column callout is-two-fifths" style="background-color: pink;">
-      <h1 class="title"> #1
-      </h1>
+  <section class="columns is-marginless logo">
+    <div class="column is-one-half main">
+      <img src="/images/mc-logo-purple.png" class="logo-image">
+     {% include mc-form.html  %}
 
-        <h2 class="subtitle">
-         {{ content }}
-      </h2>
-      </div>
+  </div>
+  <div class="column callout is-one-half" style="background-color: pink;">      
+    <h1 class="title">{{ page.title }}</h1>
+    <h2> {{page.subtitle}} </h2>
+    <hr>
+    <img src="/images/methodical-1/tabletalk.jpg">
+             {{content}}
+
+  </div>
 
 </section>
     <!-- end hero -->
+    <section class="columns is-marginless">
+        <div class="column is-one-half">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. Mauris eros est, pulvinar vitae condimentum ac, laoreet tincidunt sem. 
+        </div>
+        <div class="column is-one-half">
+        </div>
+    </section>
   </body>
 </html>

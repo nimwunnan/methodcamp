@@ -1,20 +1,22 @@
 ---
 layout: event
-title: Methodical no. 1
-date: 2019-06-23 19:30
+title: Jackrabbit Farms Field Trip
+date: 2019-08-17 11:00
 output: true
-poster: methodical-1/carl-exchange.jpg
-poster-caption: Carl Diehl Presenting
+poster: jackrabbit/firekeeper.jpg
+poster-caption: Careen Stoll demonstrating how to roast asparagus
 ---
 
-> 215 SE Morrison, Suite 2020
-
+> Meet at Col. Summers Park, SE 17th Ave & Taylor St
+> Caravan to Jackrabbit Farms in Woodland, WA
+> Return by 6PM
 
 
 For Methodical #1, we braved the large-scale, ambient noise performance that is the custom car meetup that revs its engines and woofs its subwoofers every Sunday night outside Studio 2020. Eventually the noise gave way to generative writing exercises led by Carl and a whirlwind tour of the Theory of Conceptual Labor and its relationship to Method Camp led by Ním Wunnan.  
 
-![Methodical #1 Group Photo](/images/methodical-1/listening.jpg)
-![Methodical #1 Group Photo](/images/methodical-1/tabletalk.jpg)
+
+![Carl Diehl Presenting](/images/methodical-1/carl-exchange.jpg)
+
 
 
 ## **Antonymic Exchange** an Anti-Algorithm for Artisanal Algorists. Created by Carl Diehl and Lindsey French

@@ -21,6 +21,7 @@ body
   line-height: 2.4rem
   color: $purple
   margin-bottom: .5rem
+  min-height: 100vh
 
 h1
   font-family: $h-font
@@ -34,17 +35,16 @@ h1
   padding-bottom: 15px
   border-bottom: 1px solid $orange
   margin: 1.7rem 0
+  line-height: 4.1rem
 hr, h1, h2
   color: $purple
 .title
-  font-size: 5rem
+  font-size: 4rem
   padding-bottom: 2vh
   margin-bottom: 1vh
   font-weight: 200
   color: $orange
 .subtitle
-  font-style: italic
-  margin: 30px
   font-size: 2rem
   line-height: 2rem
   font-weight: 600
@@ -62,13 +62,17 @@ a
   &:hover
     color: $orange
 strong, em
-  color: $purple
+  color: $orange
 p
   font-weight: 300
   font-size: 1.7rem
   line-height: 2.4rem
   color: $purple
   margin-bottom: .5rem
+.caption
+  font-family: monospace
+  font-size: 1rem
+  font-style: bold
 blockquote
   p
     font-size: 1.15rem
@@ -76,6 +80,14 @@ blockquote
     margin: 10px 5px
     color: $purple
 
+header.site-header
+  overflow: auto
+  height: 10vh
+  ul
+    float: right
+    li
+      float: left
+      padding: 15px 20px
 #photo-bg
   background: url(/images/logo-desk-tall.jpg)
   background-size: cover
@@ -87,8 +99,13 @@ blockquote
     width: 40%
     margin: 5rem 30%
   .columns
+  .logo
+      height: 100vh
 
-#logo
+.logo-image
+  margin-top: 5px
+  
+#xlogo
   background-image: url(/images/mc-logo.svg)
   background-position-y: 25%
   background-repeat: no-repeat
@@ -106,13 +123,46 @@ blockquote
     background-attachment: unset
     background-position-x: center
     background-image: url(/images/mc-logo.png)
-
+#mc_embed_signup
+    margin: 30px auto
+    label, input
+      color: $purple
+      font-family: $h-font
+      line-height: 2rem
+      font-size: 1.3rem
+      float: left
+      margin: 10px
+    label
+      width: 100%
+      span.down-arrow
+        vertical-align: -6px
+    input
+      border: 1px solid $purple
+      padding: 4px
+      width: 50%
+      max-width: 350px
+      float: left
+      color: $purple
+      height: 45px
+      background-color: pink
+      &
+        color: $purple
+      &[type="submit"]
+        width: 20%
+        &:hover
+          background-color: $purple
+          color: white
+      &[type="email"]
+        &::placeholder
+          color: $purple
+          padding-left: 10px
+        &::ms-input-placeholder, &::moz-placeholder, &:-ms-input-placeholder, &::webkit-input-placeholder
+          color: $purple
 .callout
   background-color: pink
   padding-left: 5%
   padding-right: 5%
   padding-top: 20vh
-  overflow: auto
   @media (max-device-width: $phone-wide), (max-width: $phone-wide)
   padding-top: 2vh
   .title
@@ -122,32 +172,12 @@ blockquote
   strong, em
     color: $purple
   h2, .subtitle
-    font-style: italic
-    margin: 30px
     font-size: 2rem
     line-height: 2rem
     font-weight: 600
-  #mc_embed_signup
-    margin: 30px auto
-    label, input
-      color: $purple
-      font-family: $h-font
-      line-height: 2rem
-      font-size: 1.3rem
-      float: left
-      clear: both
-      margin: 10px
-    input
-      border: 1px solid $purple
-      padding: 4px
-      width: 80%
-      max-width: 350px
-      background-color: pink
-      &[type="submit"]
-        max-width: 250px
-        &:hover
-          background-color: $purple
-          color: white
+  hr
+    background-color: $purple
+  
 .event 
   .columns
     padding: 5vh 0
