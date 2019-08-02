@@ -21,7 +21,8 @@ body
   line-height: 2.4rem
   color: $purple
   min-height: 100vh
-
+iframe
+  height: inherit
 h1
   font-family: $h-font
   font-weight: 100
@@ -151,6 +152,8 @@ header.site-header
         color: $purple
       &[type="submit"]
         width: 20%
+        @media (max-device-width: $phone-wide), (max-width: $phone-wide)
+          width: 50%
         &:hover
           background-color: $purple
           color: white
@@ -168,7 +171,7 @@ header.site-header
   img
     margin: 20px 0px
   @media (max-device-width: $phone-wide), (max-width: $phone-wide)
-  padding-top: 2vh
+  padding-top: 1vh
   .title
     color: $orange
     @media (max-device-width: $phone-wide), (max-width: $phone-wide)
@@ -186,11 +189,19 @@ header.site-header
 #next-event
   clear: both
   padding: 20px 10%
-  h3 em
-    color: white  
+  font-family: $p-font
+  h3
+    em
+      font-family: $p-font  
+      color: white
+    a
+      text-decoration: underline
+      padding-left: 5px
+      font-weight: 200
+
 .event 
   .columns
-    padding: 5vh 0
+    padding: 2vh 0
   .subtitle
     color: white
   strong
@@ -201,3 +212,18 @@ header.site-header
     height: 0px
     border-bottom: 1px dotted $purple
     background-color: transparent
+  .event-info
+    h2
+      color: white
+      margin: 0px 0px 15px 0px
+      padding-bottom: 10px
+      border-bottom: 1px solid white
+    .page-details ul li, .addcal
+      margin-left: 10px
+      list-style: none
+      font-weight: bold
+      font-size: 1rem
+      line-height: 1.2rem
+      padding-bottom: 15px
+      em
+        color: white

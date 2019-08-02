@@ -5,15 +5,35 @@
 
     {% include header.html %}
   <section class="columns is-marginless is-centered">
-    <div class="column is-half">
+    <div class="column is-four-fifths">
       <h1 class="serif"> {{ page.title }}</h1>
-      <h2 class="subtitle"> {{page.date | date: "%a, %b %d, %l:%M %P"}}</h2>
-      {% if page.poster %}
-        <img src="/images/{{page.poster}}" class="poster" alt="{{page.poster-caption}}">
-        <p class="caption">{{page.poster-caption}}</p>
-      {% endif %}
+
+    {% if page.poster %}
+      <img src="/images/{{page.poster}}" class="poster" alt="{{page.poster-caption}}">
+      <p class="caption">{{page.poster-caption}}</p>
+      <strong><em>{{page.subtitle}}</em></strong>
+        <hr>
+        
+    {% endif %}
+    </div>
+  </section>
+  <section class="columns is-marginless is-centered">  
+  <!-- info -->
+      <div class="column is-one-fifth event-info">
+        <h2 class="subtitle"> {{page.date | date: "%a, %b %d, %l:%M %P"}}</h2>
+        {% include addcal.html  %}
+        <div class="page-details">
+          {{ page.details | markdownify }}
+        </div>
+        {% if page.eventbrite  %}
+          {% include eventbrite.html eb-id=page.eventbrite  %}
+        {% endif  %}
+      </div>
+  <!-- content -->
+       <div class="column is-three-fifths">
          {{ content }}
       </div>
+
   </section>  
 
   </body>

@@ -1,0 +1,9 @@
+{% if page.addcal  %}
+
+<div class="addcal">
+<a href="https://www.addevent.com/event/{{page.addcal}}+apple" title="" target="_blank" {{page.addcal}}>ical</a>
+ | 
+ <a href="https://www.addevent.com/event/{{page.addcal}}+google" title="" target="_blank" {{page.addcal}}>gcal</a> | 
+ <a href="https://www.addevent.com/event/{{page.addcal}}+outlook" title="" target="_blank" {{page.addcal}}>outlook</a> 
+</div>
+{% endif  %}
