@@ -22,7 +22,7 @@ details: "* _11am_ - Meet at Col. Summers Park, SE 17th Ave & Taylor St
 
 ![The Woods Under Construction](/images/jackrabbit/jr-3.jpg)
 
-Join us for a tour of this magical, muddy wonderland. Owner and ceramicist Careen Stoll will literally walk us through the 22 acres of the project to talk the nitty-gritty of building roads, planting orchards, and opening streams to local salmon. Lunch featuring hand-caught salmon and veggies locally foraged by Faye Holliday will be served for $12.
+Join us for a tour of this magical, muddy wonderland. Owner and ceramicist Careen Stoll will literally walk us through the 23 acres of the project to talk the nitty-gritty of building roads, planting orchards, and opening streams to local salmon. Lunch featuring hand-caught salmon and veggies locally foraged by Faye Holliday will be served for $12.
 
 
 ![The Woods Under Construction](/images/jackrabbit/jr-1.jpg)
