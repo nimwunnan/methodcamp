@@ -1,0 +1,19 @@
+{% assign gallery = site.data.images %}
+<div id="gallery-container">
+    <div id="left-clicker"></div>
+    <div id="right-clicker"></div>
+{% for picture in gallery  %}
+  {% assign seriesList = picture.series | split: ", " %}
+    {% if seriesList contains page.series  %}
+    <div class="gallery-image {{ picture.title | slugify }}-{{forloop.index}}" id="{{ picture.title | slugify }}-{{forloop.index}}" style="z-index: 20{{ forloop.rindex}};">
+<!--       {<div class="image-image" style="background-image: url(/images/{{ picture.main }});" data-url="/images/{{ picture.main }}"></div>
+ -->
+      <div class="image-title">{{picture.title }}</div>
+      <img src="/images/{{ picture.main }}">
+      <div class="image-credit">Photo by {{picture.credit }}</div>
+      <div class="image-caption">{{picture.caption | markdownify }}</div>
+
+    </div>
+    {% endif %}
+{% endfor %}
+</div>

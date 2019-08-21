@@ -1,42 +1,60 @@
 ---
 layout: event
 title: The Woods Field Trip
-subtitle: Located near Woodland, WA, The Woods (aka Jackrabbit Farms) is in the process of becoming a center for permaculture, ceramics, and experiential learning.
+subtitle: Located near Woodland, WA, The Woods is in the process of becoming a center for permaculture, ceramics, and experiential learning.
 date: 2019-08-17 11:00
 output: true
 poster: jackrabbit/firekeeper.jpg
 poster-caption: Careen Stoll demonstrating how to roast asparagus
-eventbrite: 67621915971
-addcal: aY3805456
-details: "* _11am_ - Meet at Col. Summers Park, SE 17th Ave & Taylor St 
-
-* _11:15_ - Caravan to The Woods in Woodland, WA 
-
-* _12pm_ - Presentation and tour 
-
-* _2pm_ - Enjoy locally foraged lunch or bring your own 
-
-* _6pm (at the latest)_ - back in Portland"
+eventbrite: 
+addcal: 
+details:
+series: the-woods
 ---
 
 
 ![The Woods Under Construction](/images/jackrabbit/jr-3.jpg)
 
-Join us for a tour of this magical, muddy wonderland. Owner and ceramicist Careen Stoll will literally walk us through the 23 acres of the project to talk the nitty-gritty of building roads, planting orchards, and opening streams to local salmon. Lunch featuring hand-caught salmon and veggies locally foraged by Faye Holliday will be served for $12.
-
+We went on a field trip! Ceramacist Careen Stoll and her partner, carpenter Joel Slattengren were our gracious tour guides, and Faye Holiday made us an incredible lunch from locally foraged veggies and salmon that the three of them caught on a recent trip to Alaska. 
 
 ![The Woods Under Construction](/images/jackrabbit/jr-1.jpg)
 
-For those who would like to carpool, we will meet at Colonel Summers Park in SE Portland at 11 am. We will leave the park by 11:15 at the latest, carpooling to The Woods in Woodland, WA. Directions will be provided before departing. Email [info@methodcamp.org](mailto:info@methodcamp.org?subject=Carpooling) if you plan on driving separately. 
-
-We will convene at The Woods around noon, where the owners will give a presentation and take us on a walking tour of the property. Lunch will be served at 2pm, with time for conversation and questions afterwards. We will leave by 5pm to return to Portland around 6. 
-
-
-As The Woods is still under construction, please prepare for mud, rough terrain, and thick, occasionally brambly vegetation. Most of the location is ***not ADA accessible***, but if you have suitable transportation, you can participate in the presentation, lunch, and conversation from the parking area at The Woods.
-
-Please email [info@methodcamp.org](mailto:info@methodcamp.org?subject=The Woods Trip Questions) directly if you have any questions.
+Careen and Joel have been working the land at the Woods for a few years now, and they've done an enormous amount of work to start the land on its way to being a permaculture farm with fruit trees, a vegetable garden, and some livestock. They're working to re-open one of their creeks to salmon runs, and steward their other stream to ensure its future health. At the same time, they plan to relocate Careen's wood-fueled kiln to the land, build a home and a studio, and host artist residencies and experiential learning groups. They're also two of the nicest people in the world!
 
 ![The Woods Under Construction](/images/jackrabbit/jr-2.jpg)
 
+Careen provided a [printed guide](#the-guide) to the tour, which you can read to take a virtual tour of this wonderful land, as well as following in our footsteps by 
 
+{% include image-gallery.html  %}
 
+## The guide 
+
+This tour will be more slow at the beginning as I help you get your bearings in more open areas, and then the pace will pick up as we walk single file along a forest path and you will want to start referring to the numbers as we pause but have no place to congregate.  Then the land will open up again and we can have easy questions.  Then, a view of the larger creek before heading to the orchard for a more free- flowing conversation about my particular approach to permaculture and how Joel and I have problem-solved over the years.
+
+1. A moment of local history: there was a huge fire that raged up from the Columbia Gorge in 1929, killing the old growth cedars.  But they were standing, so they were logged in the 50s.  At that time, a bulldozer shaped the meadow and dam as a mill pond, which tells us the approximate age of these alders that we are now thinning.   The dam could be compromised by weak trees falling in a storm, so we will thin strategically every 5 years or so to allow the remaining trees to strengthen.  Same story all along Dee Creek to the south.  This dam we will circumvent with a new creek bed that is fish-friendly, as we wait for a grant from the state to remove the other two fish barriers downstream.  Once all 3 are gone, that would open 1/4 mile of ideal spawning grounds to salmonids (trout in our case) because this pond is fed by at least 3 springs of sufficient volume to make a 2 foot wide gravel riffle.
+
+2. Although we didn’t need to thin these alders right away, we do need a long-term storage area for the kiln firewood, and did not want to drop them later on our carefully stacked rows of split wood.  Thinning weak trees in a forest of even age is one way to promote a return the the diverse health of an old-growth forest as opposed to plantation- style forest management which is really much more like agriculture, which in turn some permaculturists compare to mining.  
+
+3. There was a plantation of about 100 doug fir trees in the area of the current orchard. planted in rows and 50 years old, the small ones were cut to make kiln wood, and the larger will be used as timbers.  Fire took care of the piles of branches, which also reduced safety hazards and clutter.  Note “the Sisters”, which indicate the mature height of the rest of the 100
+
+4. In this wet area near one of the creeks, red alder readily seeds itself.  There is a category of plants known as nitrogen fixers, and they come in all shapes and sizes.  They are known as “first-succession” plants in natural ecosystem/forest regeneration because they are capable of accessing/ fixing their own source of nitrogen as well as making nitrogen available to other plants around them.  Legumes are a common one, all the clovers, many invasive species such as scotch broom are legumes in bush form.  Red alder is the indigenous and widespread tree that fixes nitrogen in our forests, and they also happen to be ideal media for shiitake mushrooms.  Instead of cutting logs in the process of thinning the alder, we will “high-stump” them: cut the tree at 6 or 7 feet and inoculate it while it is standing, allowing the moisture from the slowly dying roots to keep the mycelia in an ideally wet material as they grow.  The mushroom will fruit more slowly and over a longer period of time, but the amount of labor is so much less, who cares?  The only trick is to thin in a way the keeps the stump in the shade…
+
+5. Himalayan blackberry is our number one invasive to kill, and Joel spends a lot of time doing so.  All over the property but particularly near water, the blackberry easily grow 20’ long, climbing all over everything and all but obliterating other species. While the task of reducing the pressure of this bramble is daunting at best, the rewards are sweet when we see shade-loving Trillium and Oregon Grape still sprouting up from under the most dense blackberry canopy.  Not to mention, we can walk here where there was once a wall of thorns.  As Joel proceeded, he pulled the brambles down out of the tree branches, often with a rake, which is why you may see little evidence.  Going forward, the only strategy to ensure their certain death is year-round shade from conifers (deciduous trees won’t do it).  So we need to simultaneously keep them at bay as we plant cedars amongst them and then maintain as the cedars slowly grow up.
+
+6. At about this point, you may detect a shift away from alders and towards doug fir, which correlates to changes towards more dry soil.  You also see a lot of pin cherry and vine maple.  When we had a wide-ranging conversation with a forester with whom we consulted, we asked about how to steward a forest that accounts for climate change in our region.  He said that the available information indicates that our region will tend toward more extremes of weather (higher highs and lower lows, more intense storms) but that in general, we will have hotter and dryer summers.  Doug Fir as a dominant forest species will continue to be appropriate.  As Joel de-selects blackberry, he is careful to retain the rest of the natives : ocean spray, vine maple, elderberry, filbert, many of which will happily live in the shade of a maturing fir forest.  Pin cherry, which sure behaves like a weed, will phase out in the shade. 
+
+7. Thinning: these Doug Fir were planted about 10 years ago and in few more years, they will “close canopy”, which means - start to touch each other and shade each other out.  At that point, we can wait a little longer if we wish, but for their ideal health, we would soon thin 50%.  (repeat as needed)  This is a forest managing technique aimed at timber production, where the trees are planted over-dense (these are at about 400 trees per acre).  The ideal timber is a long straight trunk without low branches, created by the kind of density that forces growth to happen up top.  A healthy fir has at least a half of its height in leaf.  Anything less is weak, as we will see later.  While this property (as most around here) enjoys “timber tax” status, there are actually no timelines on when precisely we offer the ultimate timber to the public market (which is the stipulation on the tax status- that harvest and sale will happen eventually).  Given this fact, we are free to manage our new forest for its health since technically this creates the best timber in the long-haul.  We intend to steward its return to old-growth.
+
+8. A spring!  In which, by feat of geology, horizontal fissures in the rock layers create underground rivers that then suddenly open outward.  We assume that in the 50s as well, this spring box was created, carefully digging back into the soil towards the source, to wall in the remaining sides and capture the sweet water.  The trick to forming a spring box is to always allow it to flow, lest it back up into the mountain and find more agreeable routes.  A tree fell on this one at some point and broke it.  We will repair it, and dig cisterns slightly downhill, which will become our water source.  It flows at at least 6 gallons a minute, which is more than comfortable.  If we locate cisterns relatively high up on our little hillside, we generate “head pressure”, which is just pounds of pressure accumulated by height/weight.  A UV filter will take care of any potability issues
+
+9. You are walking on tufts of Oregon Iris, which never cease to delight me in spring.  I don’t know much yet about the habits of our wandering animals, but I do know that I always see paw marks in this area, and nibbling of the iris.  We have deer, of course, but also a herd of elk that live to our northeast and come visit on occasion.  We also have black bear in this area, as seen many times by the uphill neighbor, a Mom with cubs on occasion.  What with the blackberries coming ripe now, this is the time the bears come visit.  But they are much more afraid of you than you are of they, so no worries.     …. we also have cougar around- Joel and I saw one sauntering along, and I saw what was very likely a lynx
+
+10.  This is what we refer to as the old logging road, the last one kept open of a small network created at the time of the 50’s logging.  As we explore and clear blackberry, it is evident where the others are too- and often they are places where the alder is dense.  To your left as we walk downhill is an area about 2 acres where I would like eventually to transition the entire area into pasture for a few sheep.  Similar to our native “oak savannah”, where the oaks were the dominant overstory with a dusting of mid-story but mostly a wide grassland below, I would like to have a “silviculture” chestnut-based forest here.  Grazed and managed savannah was in many places in the world the prime producing ecosystem of animal foods.  Pigs feeding on chestnuts take on that flavor to covetous quality.  Personally, I prefer sheep.  Also in this area are lots of pin cherry trees.  If you cut them to the ground, they re-sprout, a technique known as coppicing.  If you select one of those new shoots, cut down the others, and graft a dwarfing rootstock onto the one new shoot, you have a healthy root ball fueling growth onto a modified tree.  If you then graft a sweet cherry onto your dwarfing rootstock, you have a short sweet cherry tree with a very well-established root ball. 
+
+11.  We are coming now toward the meadow that was so severely modified by the bulldozer in the 50s.  We are going to wander off to the south and visit Dee Creek before we return to the orchard and talk about permaculture and our method here at the Woods.  Notice the twin trees that we call “The Sisters”, which you noted at the beginning of our walk.  As we skirt the construction zone, look left and mentally compare the much smaller doug fir trees that you see to the large ones as we approached the spring up the hill. This is likely because the soil here is impoverished: the topsoil was scraped wholesale and deposited in layers willy-nilly as this old creek valley was smoothed and prepared to become a mill site with that dam making a mill pond.  Those trees are planted in sub-soil, and suffering in comparison.
+
+12. Dee Creek… When I was searching for this property (on redfin), I was able to set filters, and I searched only raw land with a year-round creek within an hour of PDX.  This gave me a group of options small enough that I could truly compare them in person, but visiting other properties did not prepare me for the deeply calming joy that visited me when I first experienced this creek.  For 600 some feet, this is our southern property line.  
+
+This is a waterway passable to fish, as determined by a very awesome lady from WA dept of fish and wildlife.  She machete-hacked her way through the entry and exit of the culvert just downstream of us here to determine its friendliness to fish (about 60%), and told me at the time (winter) that if I sat a spell at creek-side, I would see salmon.  
+
+As government gradually recognized increasing knowledge of how ecosystems work, restrictions to logging were enacted, preserving the forest borders 100’ away from water systems.  That’s great, but that happens to mean for us that the border of Dee Creek here was protected after it had been logged, and so it proceeded to re-seed itself basically all at the same time.  Good forest practices would dictate a thinning as mentioned upon the canopy closing, but then suddenly there was this legal gray zone of forest management near water; this forest has been in that zone.  As you look up (or perhaps from a distance), you see that tons of these trees are growing only in their upper fourth.  That is because they have competed evenly for light all through their lives and now they have entered as a forest what our consultant Forester loosely called “stuck”.  The entire group is weak.  A man not seemingly given to hyperbole said that if there were a strong enough storm, major portions of the whole edge could blow down simply because it is so weak and so exposed in its position of being a long strip.  It has started to self-prune.  So our task is to thin 30% to 50%, then let the others strengthen for 5 years, then thin again, rinse, repeat, and maintain blackberry in the meantime.  He also encouraged us to plant that slow-growing tree most beloved of indigenous peoples that dominates the most mature forests of our region: Western Red Cedar.
