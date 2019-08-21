@@ -8,7 +8,11 @@ poster: jackrabbit/firekeeper.jpg
 poster-caption: Careen Stoll demonstrating how to roast asparagus
 eventbrite: 
 addcal: 
-details:
+details: " 
+[Photo Tour](#photo-tour)
+<br>
+[Guide to the land](#the-guide)
+"
 series: the-woods
 ---
 
@@ -24,6 +28,8 @@ Careen and Joel have been working the land at the Woods for a few years now, and
 ![The Woods Under Construction](/images/jackrabbit/jr-2.jpg)
 
 Careen provided a [printed guide](#the-guide) to the tour, which you can read to take a virtual tour of this wonderful land, as well as following in our footsteps by 
+
+## Photo Tour
 
 {% include image-gallery.html  %}
 
